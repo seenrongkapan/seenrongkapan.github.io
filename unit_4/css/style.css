@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Poppins|Prata');
+
+body {
+	background: #000;
+	background-size: cover;
+	font-family: Helvetica;
+	color: #fff;
+	text-align: center;
+}
+
+p {
+	font-family: Poppins, sans-serif;
+}
+
+.container {
+	position: relative;
+}
+
+.textbox {
+	position: absolute;
+	top: 20%;
+	left: 15%;
+	padding: 40px;
+	padding-top: 20px;
+	background: rgba(0,0,0,0.4);
+}
+
+
+h1 {
+	font-family: 'Bungee Shade', cursive;
+	color: white;
+	font-size: 50px;
+	
+}
+
+hr {
+	width: 250px;
+}
+
+#slogan {
+	font-style: italic;
+	font-family: 'Prata', sans-serif;
+}
+
+#about {
+	font-size: 0.95em;
+	text-transform: thin;
+	font-family: 'Poppins', sans-serif;
+	margin: 2em;
+}
+
+#popup-link {
+	color: orange;
+	font-size: 0.8em;
+
+}
+
+ul {
+	list-style-type: none;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	font-family: Prata, serif;
+	color: rgba(250,250,250,0.5);
+	font-size: 20px;
+}
